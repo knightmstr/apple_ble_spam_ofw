@@ -654,6 +654,7 @@ struct {
 } randoms[ContinuityTypeCount] = {0};
 
 uint16_t delays[] = {
+    10,
     20,
     50,
     100,
